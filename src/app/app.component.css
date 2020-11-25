@@ -7,16 +7,16 @@
     }
     .ped{
       padding: 0 15px;
-      
+
     }
     .back{
       background-image: none;
     }
     .main{
-      background-color: #1a1b1d; 
+      background-color: #1a1b1d;
       padding: 0%;
-       overflow: scroll; 
-       overflow-x:hidden; 
+       overflow: scroll;
+       overflow-x:hidden;
        overflow-y: hidden;
     }
     .pom{
@@ -35,14 +35,14 @@
     }
     .ped{
       padding: 0 0;
-      
+
     }
     .main{
-      background-color: #1a1b1d; 
-      border-left: 1px solid gray ; 
+      background-color: #1a1b1d;
+      border-left: 1px solid gray ;
       padding: 0%;
-       overflow: scroll; 
-       overflow-x:hidden; 
+       overflow: scroll;
+       overflow-x:hidden;
        margin:15px 15px 15px 0px;
     }
     .pom{
@@ -64,7 +64,7 @@
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #0c0c0c;
+  background: #212529;
   border-radius: 10px;
 }
 
